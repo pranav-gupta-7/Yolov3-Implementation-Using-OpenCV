@@ -21,7 +21,6 @@ Implementing Yolov3 algorithm using OpenCV to detect different objects<br><br>
 2-Then run <i>`yolov3_run.py`</i>. The output will be stored in the format of "<i>video_name</i>_yolo_out_py.avi" for videos and "<i>image_name</i>_yolo_out_py.jpg" for images.<br><br>
 3-For running through command lines:-
 <ul style="list-style-type:disc;">
-  <li>`python3 yolov3_run.py --video=video_name.mp4`</li>
-  <li>`python3 yolov3_run.py --image=image_name.jpg`</li>
-  
+  <li>python3 yolov3_run.py --video=video_name.mp4</li>
+  <li>python3 yolov3_run.py --image=image_name.jpg </li>
 </ul> 
