@@ -24,9 +24,11 @@ Implementing Yolov3 algorithm using OpenCV to detect different objects<br><br>
   <li>python3 yolov3_run.py --video=video_name.mp4</li>
   <li>python3 yolov3_run.py --image=image_name.jpg </li>
 </ul> 
-# Downloading Models
-coco.names <https://github.com/pjreddie/darknet/blob/master/data/coco.names?raw=true -O ./coco.names>
-yolov3.weights <https://pjreddie.com/media/files/yolov3.weights>
-yolov3.cfg <https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true -O ./yolov3.cfg>
+## Downloading Models
+coco.names (https://github.com/pjreddie/darknet/blob/master/data/coco.names?raw=true -O ./coco.names)
+
+yolov3.weights (https://pjreddie.com/media/files/yolov3.weights)
+
+yolov3.cfg https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true -O ./yolov3.cfg)
  
 
