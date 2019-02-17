@@ -1,4 +1,4 @@
-# Yolov3-implementation-using-OpenCV
+# Yolov3-Implementation-Using-OpenCV
 Implementing Yolov3 algorithm using OpenCV to detect different objects<br><br>
 
 
