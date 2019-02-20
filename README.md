@@ -23,7 +23,24 @@ Implementing Yolov3 algorithm using OpenCV to detect different objects<br><br>
 <ul style="list-style-type:disc;">
   <li>python3 yolov3_run.py --video=video_name.mp4</li>
   <li>python3 yolov3_run.py --image=image_name.jpg </li>
-</ul> 
+</ul>
+
+# File Structure
+
+```
+.
+└── Yolov3-Implementation-Using-OpenCV
+    ├── download_models.sh
+    ├── images
+    │   ├── input-1.jpeg
+    │   ├── input-2.jpeg
+    │   ├── input-3.jpeg
+    │   ├── output-1.jpg
+    │   ├── output-2.jpg
+    │   └── output-3.jpg
+    ├── README.md
+```
+
 
 # Downloading Models
 
@@ -33,4 +50,5 @@ yolov3.weights (https://pjreddie.com/media/files/yolov3.weights)
 
 yolov3.cfg https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true-O./yolov3.cfg)
  
+
 
