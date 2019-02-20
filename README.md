@@ -30,6 +30,8 @@ Implementing Yolov3 algorithm using OpenCV to detect different objects<br><br>
 ```
 .
 └── Yolov3-Implementation-Using-OpenCV
+    ├── bash
+    │   └── tree_structure.sh
     ├── download_models.sh
     ├── images
     │   ├── input-1.jpeg
@@ -39,6 +41,9 @@ Implementing Yolov3 algorithm using OpenCV to detect different objects<br><br>
     │   ├── output-2.jpg
     │   └── output-3.jpg
     ├── README.md
+    └── yolov3_run.py
+
+
 ```
 
 
